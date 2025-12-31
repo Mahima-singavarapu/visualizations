@@ -1,0 +1,97 @@
+This project focuses on exploratory data analysis (EDA) and data visualization using a rainfall dataset.
+The goal is to understand weather patterns, rainfall trends and relationships between meteorological variables through multiple visualization techniques.
+
+Column Name	Description
+date	Date of observation
+rainfall	Amount of rainfall (mm)
+temperature	Average temperature (°C)
+humidity	Relative humidity (%)
+wind_speed	Wind speed (km/h)
+weather_condition	Weather type (Rainy / Sunny)
+
+
+Analyze rainfall patterns over time
+Compare weather conditions and rainfall levels
+Identify relationships between temperature, humidity, wind speed, and rainfall
+Visualize data using industry-standard chart types
+Provide meaningful insights using KPIs and EDA techniques
+
+KPIs:
+Total Rainfall: Sum of rainfall across all days
+Average Temperature: Mean daily temperature
+Average Humidity: Mean humidity level
+Number of Rainy Days: Days with rainfall > 0
+
+1. Bar & Column Charts
+
+Used to compare average rainfall by weather condition
+
+Helps identify which weather type contributes more rainfall
+
+2. Line Charts (Time Series)
+
+Displays rainfall trends over time
+
+Useful for detecting increases, decreases, or seasonal behavior
+
+3. Tables, Filters & Slicers
+
+Tabular views allow easy filtering (e.g., only rainy days)
+
+Helps in focused analysis
+
+4. Stacked Bar & Pie Charts (Composition)
+
+Shows the proportion of Rainy vs Sunny days
+
+Useful for understanding weather distribution
+
+5. Funnel Chart
+
+Rainfall values sorted from highest to lowest
+
+Highlights days with the most rainfall
+
+6. Pareto Chart
+
+Identifies which days contribute most to total rainfall
+
+Follows the 80/20 principle
+
+7. Heatmap
+
+Displays correlations between rainfall, temperature, humidity, and wind speed
+
+Helps identify strong or weak relationships
+
+8. Small Multiples
+
+Multiple line charts displayed together
+
+Enables easy comparison of different weather variables over time
+
+9. Distribution Charts
+
+Histogram: Shows rainfall frequency distribution
+
+Box Plot: Identifies spread and outliers in rainfall data
+
+10. Scatter Plot (Relationship Analysis)
+
+Shows relationship between temperature and rainfall
+
+Colored by weather condition for better insight
+
+Shows relationship between temperature and rainfall
+
+Colored by weather condition for better insight
+
+
+Tools & Libraries Used:
+
+Python
+Pandas – Data manipulation
+Matplotlib – Static visualizations
+Seaborn – Statistical plots
+Plotly – Interactive maps and charts
+
