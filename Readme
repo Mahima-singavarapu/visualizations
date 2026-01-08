@@ -1,13 +1,13 @@
 This project focuses on exploratory data analysis (EDA) and data visualization using a rainfall dataset.
 The goal is to understand weather patterns, rainfall trends and relationships between meteorological variables through multiple visualization techniques.
 
-Column Name	Description
-date	Date of observation
-rainfall	Amount of rainfall (mm)
-temperature	Average temperature (°C)
-humidity	Relative humidity (%)
-wind_speed	Wind speed (km/h)
-weather_condition	Weather type (Rainy / Sunny)
+Column Name -	Description
+date - Date of observation
+rainfall -	Amount of rainfall (mm)
+temperature -	Average temperature (°C)
+humidity -	Relative humidity (%)
+wind_speed -	Wind speed (km/h)
+weather_condition -	Weather type (Rainy / Sunny)
 
 
 Analyze rainfall patterns over time
